@@ -1,34 +1,27 @@
-# My Projects
+# 🎯 Projects
+  
+## 📋 Project List
 
-## 🎬 Project Demo Videos
+| # | Project Name |
+|:---:|:---|
+| 1 | **AAA Simulation** |
+| 2 | **AI Chess** |
+| 3 | **Electronic Project** |
+| 4 | **Homepage Source Code** |
+| 5 | **News Classifier + Search Engine** |
+| 6 | **Real AAA** |
+| 7 | **Show Homepage** |
+| 8 | **Socket Chess** |
+| 9 | **Stock Predict** |
+| 10 | **Type 2 Diabetes** |
 
-| # | Project | Watch |
-|---|---------|-------|
-| 1 | AAA Simulation | [▶️ YouTube]() |
-| 2 | AI Chess | [▶️ YouTube](  ) |
-| 3 | Electronic Project | [▶️ YouTube](https://youtu.be/000_KovSzgQ) |
-| 4 | Homepage Source Code | [▶️ YouTube](  ) |
-| 5 | News Classifier + Search Engine | [▶️ YouTube](https://youtu.be/laNUbr99ZF0) |
-| 6 | Real AAA | [▶️ YouTube](https://youtu.be/lha3IZxMtFU) |
-| 7 | Show Homepage | [▶️ YouTube](https://youtu.be/PGoiq1_uXLU) |
-| 8 | Socket Chess | [▶️ YouTube](  ) |
-| 9 | Stock Predict | [▶️ YouTube](https://youtu.be/xGtMf97t08A) |
-| 10 | Type 2 Diabetes | [▶️ YouTube](  ) |
+---
 
+## 🎥 Watch All Videos in One Playlist
 
+Click the badge below to view all project demos and presentations on YouTube:
 
+[![View Project Playlist](https://img.shields.io/badge/PlayList-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLGtAmIqHDWmo)
 
-
-
-
+---
  
-
-
-
-
-
-
-
-
-
-
